@@ -1,14 +1,22 @@
-# IndicacaodeLivros
+## 📚 Indicação de Livros <a name="Livros"></a>
+
+Espaço para compartilhar minhas leituras sobre temas váriados, mas dentro do meu campo de atuação.
 
 
-**Código Limpo** | *Clean Code*
+### LIVROS ###
 
-Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim.
-```
-autor: Robert Cecil Martin
-pre-req: nenhum
-tags: clean code 
-dica: @devMozao
+**14 Hábitos de desenvolvedores altamente produtivos** | *Zeno Rocha*
 ```
 
-<br>
+O livro foi projetado para ser o mais simples possível e objetivo para o leitor ou leitora. No final de cada seção foram colocadas perguntas e respostas com desenvolvedores de empresas como a Microsft, Elastic, Spotify, dentre outras. 
+Ele é muito interessante para quem está com a dúvida de qual linguagem de programação aprender, como manter o equilibrio entre habilidades existes e as novas e se devemos nos manter especialista ou generalistas.
+
+```
+
+**Scrum - Um guia de Bolso - Um companheiro de viagem inteligente** | *Gunther Verheyen*
+```
+
+Foi o melhor livro que li sobre Scrum e é o guia mais completo e também para todos que desejam aprender e reaprender sobre esse framework. O livro é tão fenomenal que é usado para a preparação da certificação PSM III - Prova mais difícil do universo.
+
+```
+
