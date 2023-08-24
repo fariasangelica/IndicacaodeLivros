@@ -20,3 +20,10 @@ Foi o melhor livro que li sobre Scrum e é o guia mais completo e também para t
 
 ```
 
+**Desenvolvimento ágil limpo: de volta às origens: Volume 1** | *Robert C. Martin*
+```
+
+Status: Lendo...
+
+```
+
