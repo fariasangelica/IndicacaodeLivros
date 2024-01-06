@@ -16,6 +16,10 @@ Espaço para compartilhar minhas leituras dentro da minha área de atuação e t
 
 3. **Desenvolvimento Ágil Limpo: de volta às origens: Volume 1** | *Robert C. Martin*
 
+4. **Mostre seu trabalho!: 10 maneiras de compartilhar sua criatividade e ser descoberto** | *Austin Kleon*
+   
+5. **Hábitos Atômicos** | *James Clear* 
+
 
 
 
