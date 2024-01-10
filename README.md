@@ -3,7 +3,7 @@
 Espaço para compartilhar minhas leituras dentro da minha área de atuação e também leituras para o meu desenvolvimento pessoal e profissional.
 
 ### LIVROS 2024 ###
-1. **Simplificando Teste de Software: Compartilhando experiências** | *Anne Caroline Rocha*
+1. **Simplificando Teste de Software: Compartilhando experiências** | *Anne Caroline Rocha* 
 
 
 
