@@ -3,8 +3,11 @@
 Espaço para compartilhar minhas leituras dentro da minha área de atuação e também leituras para o meu desenvolvimento pessoal e profissional.
 
 ### LIVROS 2024 ###
-1. **Simplificando Teste de Software: Compartilhando experiências** | *Anne Caroline Rocha* 
-2. **Introducing Go** | *Caleb Doxsey * 
+1. **Simplificando Teste de Software: Compartilhando experiências** | *Anne Caroline Rocha*
+   
+2. **Introducing Go** | *Caleb Doxsey*
+   
+3. **Enviesados** | *Rian Dutra*
 
 
 
